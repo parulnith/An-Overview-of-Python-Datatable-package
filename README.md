@@ -1,4 +1,6 @@
 # An Overview of Python's Datatable package
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/An-Overview-of-Python-s-Datatable-package/master?filepath=An%20Overview%20of%20Python's%20Datatable%20package.ipynb)
+
 Python library for efficient multi-threaded data processing, with the support for out-of-memory datasets.
 
 If you are an R user, chances are that you have already been using the [data.table](https://cran.r-project.org/web/packages/data.table/data.table.pdf) package. Data.table is an extension of the data.frame package in R. It's also the go-to package for R users when it comes to the fast aggregation of large data (including 100GB in RAM).
