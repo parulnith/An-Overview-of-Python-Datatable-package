@@ -7,7 +7,7 @@ Python library for efficient multi-threaded data processing, with the support fo
 
 If you are an R user, chances are that you have already been using the [data.table](https://cran.r-project.org/web/packages/data.table/data.table.pdf) package. Data.table is an extension of the data.frame package in R. It's also the go-to package for R users when it comes to the fast aggregation of large data (including 100GB in RAM).
 
-The R's data.table package is a very versatile and a high-performance package due to its ease of use, convenience and programming speed. It is a fairly famous package in the R community with over 400k downloads per month and almost 650 CRAN and Bioconductor packages using it [source](https://github.com/Rdatatable/data.table/wiki).
+The R's data.table package is a very versatile and a high-performance package due to its ease of use, convenience and programming speed. It is a fairly famous package in the R community with over 400k downloads per month and almost 650 CRAN and Bioconductor packages using it([source](https://github.com/Rdatatable/data.table/wiki)).
 
 So, what is in it for the Python users? Well, the good news is that there also exists a Python counterpart to thedata.table package called datatable which has a clear focus on big data support, high performance, both in-memory and out-of-memory datasets, and multi-threaded algorithms. In a way, it can be called as data.table's younger sibling.
 
